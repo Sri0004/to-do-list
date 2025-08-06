@@ -17,7 +17,7 @@ A simple and interactive To-Do List app built using **HTML**, **CSS**, and **Jav
 
 ## 🖥️ Live Demo
 
-You can [click here]https://sri0004.github.io/to-do-list/(#) to see the live version (if hosted).
+You can [click here]https://sri0004.github.io/to-do-list/ to see the live version (if hosted).
 
 ## 🛠️ Tech Stack
 
@@ -30,5 +30,6 @@ You can [click here]https://sri0004.github.io/to-do-list/(#) to see the live ver
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
 
 
