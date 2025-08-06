@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>To-Do List with Due Date</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="todo-container">
+    <h2>📅 Task Scheduler</h2>
+
+    <div class="input-group">
+      <input type="text" id="taskName" placeholder="Enter task name" />
+      <input type="datetime-local" id="dueDate" />
+      <button onclick="addTask()">Add</button>
+    </div>
+
+
+    <ul id="taskList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
